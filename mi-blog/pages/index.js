@@ -23,7 +23,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="blog/" className={styles.card}>
             <h2>Acerca del Side Server Render &rarr;</h2>
-            <p>Conozcamos el un poco del side server render</p>
+            <p>¿Sabías esto sobre el side server render?</p>
           </a>
 
         </div>
